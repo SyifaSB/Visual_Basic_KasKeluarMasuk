@@ -1,0 +1,10 @@
+D:\KULIAH\TUGAS\5\Visual\ATM\ATM\bin\Debug\ATM.exe.config
+D:\KULIAH\TUGAS\5\Visual\ATM\ATM\bin\Debug\ATM.exe
+D:\KULIAH\TUGAS\5\Visual\ATM\ATM\bin\Debug\ATM.pdb
+D:\KULIAH\TUGAS\5\Visual\ATM\ATM\bin\Debug\ATM.xml
+D:\KULIAH\TUGAS\5\Visual\ATM\ATM\obj\Debug\ATM.Form1.resources
+D:\KULIAH\TUGAS\5\Visual\ATM\ATM\obj\Debug\ATM.Resources.resources
+D:\KULIAH\TUGAS\5\Visual\ATM\ATM\obj\Debug\ATM.vbproj.GenerateResource.Cache
+D:\KULIAH\TUGAS\5\Visual\ATM\ATM\obj\Debug\ATM.exe
+D:\KULIAH\TUGAS\5\Visual\ATM\ATM\obj\Debug\ATM.xml
+D:\KULIAH\TUGAS\5\Visual\ATM\ATM\obj\Debug\ATM.pdb
